@@ -1,0 +1,138 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: #d3d2d2;
+}
+.titulo{
+    color: rgb(27, 29, 29);
+    text-align: left;
+    position: relative;
+    margin-bottom: -20px;
+       font-size: 40px; 
+
+}
+header{
+    background-color: rgb(184, 183, 183);
+   
+   
+   
+}
+nav ul{
+    
+    list-style-type: none;
+    margin: 1px;
+    padding: 1px;
+    text-align: center;    
+    margin-left: 150px;
+   
+}
+nav ul li{
+    
+    display: inline;
+    margin: 150px;
+    
+}
+
+
+img{
+    width: 450px;
+    margin-left: 250px;
+    border-radius: 40%;
+    position: relative;
+    top: -210px;
+}
+h1{
+    color: #384444;
+    text-align: center;
+    font-size: 30px;
+
+    
+}
+h3{
+    color:#384444;
+    justify-content: center;
+    text-align: left;
+    margin-top: -600px;
+    margin-left: 670px;
+}
+main {
+    position: relative; 
+}
+
+footer{
+    color:#3a4242;
+    text-align: left;
+    margin-top: 500px;
+  
+}
+a{
+    font-weight: bold;
+    color: rgb(41, 49, 49);
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+   
+}
+
+h4{
+text-align: left;
+color: #384444;
+margin-left:260px;
+margin-top: -144px;
+}
+.nome {
+   
+    text-align: center;
+   margin-left: 400px;
+   position: relative;
+   top: 40px; 
+   left: 11px; 
+   font-size: 40px;
+}
+.caracteristicas {
+    position: relative;
+    top: 150px; 
+    left: 411px;
+}
+.habi {
+    font-size: 40px;
+    color: #384444;
+}
+.habilidades{
+    font-weight: bold;
+    color: rgb(32, 34, 34);
+    font-size: 20px;
+    
+}
+.projeto{
+    width:500px;
+    top: -100px;
+    right: 300px;
+}
+.descricao{
+   text-align: left;
+   position: relative;
+   top: 99px; 
+   left: -280px;
+
+}
+
+.contato-section {
+    padding: 20px;
+    text-align: center;
+}
+
+.retangulo-contato {
+    width: 60%;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #cccccc;
+    border-radius: 8px;
+ 
+}
+
+
+
